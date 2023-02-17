@@ -1,0 +1,249 @@
+/*All Laptop Desktop device*/
+@media screen and (max-width: 1024px) {
+	/*code start*/
+.latest-area .position {
+    position: absolute;
+    left: 244px;
+    top: 222px;
+    z-index: -1;
+}
+.latest-area .position2 {
+    position: absolute;
+    left: 210px;
+    top: -14px;
+    z-index: -1;
+}
+.latest-area .position3 {
+    position: absolute;
+    left: 263px;
+    top: 50px;
+    z-index: -1;
+}
+.latest-area .position4 {
+    position: absolute;
+    left: -20px;
+    top: 233px;
+    z-index: -1;
+}
+.about-area .position5 {
+    position: absolute;
+    left: 314px;
+    top: 170px;
+}
+.featured-area .img-custome {
+    width: 170px;
+    height: 220px;
+}
+	/*code End*/
+}
+/*All Tablet Device and seface Duo*/
+@media screen and (max-width: 768px) {
+	/*code start*/
+.banner-text {
+    padding: 100px 0px;
+}
+.about-area .about-text{
+  padding: 40px 0px;
+}
+.about-area .about-text p{
+  width: 100%;
+}
+.trending-area .trending .trending1{
+  
+}
+.latest-area .about-text{
+  padding: 20px 0px 40px 0px;
+}
+.latest-area .about-text h2{
+  font-size: 30px;
+  padding: 0px 0px 0px 170px;
+}
+.latest-area .about-text h1{
+  font-size: 35px;
+}
+.all-head h2{
+  font-size: 25px;
+}
+.featured-area .featured-img{
+  margin-top: 20px;
+}
+.contact-area .btn-danger{
+  margin: 0px 0px 20px 0px;
+}
+.testimonial-area{
+  padding: 40px 0px;
+}
+.owl-carousel .owl-item img{
+  width: 70%;
+}
+.banner-area .nav-item a{
+  margin: 0px 0px 0px 23px;
+  color: #24d278;
+}
+.trending-area{
+  padding: 40px 0px;
+}
+.featured-area{
+  padding: 40px 0px;
+}
+.featured-area .featured-img{
+  text-align: center;
+}
+.trending-area .img-center{
+  text-align: center;
+}
+
+
+/*code End*/
+}
+/*All Mbile Device lg,mi,iphone,moto,*/
+@media screen and (max-width: 480px) {
+	/*code start*/
+.banner-text{
+  padding: 40px 0px;
+}
+.banner-area .banner-text h1{
+  font-size: 40px;
+  text-align: center;
+  text-align: center;
+}
+.banner-area .banner-text h4{
+  font-size: 20px;
+  text-align: center;
+}
+.banner-area .banner-text p{
+  margin: 0px auto;
+  text-align: justify;
+}
+.banner-text .banner-btn{
+  text-align: center;
+}
+.banner-area .youtubebtn {
+    padding: 100px 0px 0px 175px;
+}
+.banner-text .banner-chair-img {
+  text-align: center;
+  margin-top: 20px;
+}
+.about-area .about-text{
+  padding: 40px 0px;
+}
+.about-area .about-text p{
+  width: 100%;
+}
+.trending-area .trending .trending1{
+  text-align: center;
+}
+.latest-area .about-text{
+  padding: 20px 0px 40px 0px;
+}
+.latest-area .about-text h2{
+  font-size: 20px;
+  padding: 0px 0px 0px 70px;
+}
+.latest-area .about-text h1{
+  font-size: 25px;
+}
+.all-head h2{
+  font-size: 25px;
+}
+.featured-area .featured-img{
+  margin-top: 20px;
+}
+.contact-area .btn-danger{
+  margin: 0px 0px 20px 0px;
+}
+.testimonial-area{
+  padding: 40px 0px;
+}
+.owl-carousel .owl-item img{
+  width: 50%;
+}
+.banner-area .nav-item a{
+  margin: 0px 0px 0px 23px;
+  color: #24d278;
+}
+.trending-area{
+  padding: 40px 0px;
+}
+.featured-area{
+  padding: 40px 0px;
+}
+.featured-area .featured-img{
+  text-align: center;
+}
+.trending-area .img-center{
+  text-align: center;
+}
+/*code End*/
+}
+
+/*mini Device Galaxy fold And Mini Phone*/
+@media screen and (max-width: 320px) {
+	/*code start*/
+.banner-text{
+  padding: 40px 0px;
+}
+.banner-area .banner-text h1{
+  font-size: 40px;
+  text-align: center;
+  text-align: center;
+}
+.banner-area .banner-text h4{
+  font-size: 20px;
+  text-align: center;
+}
+.banner-area .banner-text p{
+  margin: 0px auto;
+  text-align: justify;
+}
+.banner-text .banner-btn{
+  text-align: center;
+}
+.banner-area .youtubebtn {
+    padding: 100px 0px 0px 130px;
+}
+.banner-text .banner-chair-img {
+  text-align: center;
+  margin-top: 20px;
+}
+.about-area .about-text{
+  padding: 40px 0px;
+}
+.about-area .about-text p{
+  width: 100%;
+}
+.trending-area .trending .trending1{
+  text-align: center;
+}
+.latest-area .about-text{
+  padding: 40px 0px;
+}
+.latest-area .about-text h2{
+  font-size: 20px;
+  padding: 0px 0px 0px 70px;
+}
+.latest-area .about-text h1{
+  font-size: 25px;
+}
+.all-head h2{
+  font-size: 25px;
+}
+.featured-area .featured-img{
+  margin-top: 20px;
+}
+.contact-area .btn-danger{
+  margin: 0px 0px 20px 0px;
+}
+.testimonial-area{
+  padding: 40px 0px;
+}
+.owl-carousel .owl-item img{
+  width: 50%;
+}
+.banner-area .nav-item a{
+  margin: 0px 0px 0px 23px;
+  color: #24d278;
+}
+}
+/*code End*/
